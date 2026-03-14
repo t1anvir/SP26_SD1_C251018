@@ -8,7 +8,6 @@ public class q2 {
         if(sc.hasNextInt()){
             s = sc.nextInt();
         }
-
         int[] arr = new int[s];
         for(int i=0; i<s; i++){
             if(sc.hasNextInt()){
